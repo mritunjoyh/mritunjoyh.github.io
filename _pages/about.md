@@ -6,8 +6,8 @@ subtitle: <a href='#'>Bring Imagination into Reality</a>
 
 profile:
   align: left
-  image: mritunjoy_pf.jpeg
-  image_circular: True # crops the image to make it circular
+  image: dp_new/mritunjoy_pf.jpeg
+  image_circular: true # crops the image to make it circular
   more_info: >
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -23,8 +23,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 
 ---
-I am an AI Researcher at <a href='https://www.tcs.com/what-we-do/research'>TCS Research</a>, working in Generative AI and 3D Computer Vision. Previously, I completed my Bachelor's at <a href='https://www.iiests.ac.in/'>IIEST Shibpur</a>.
+Mritunjoy Halder is a PhD researcher in the Department of Robotics and Automation at the <a href='https://www.iisc.ac.in/'>Indian Institute of Science (IISc)</a>, Bangalore. His research lies at the intersection of Generative AI, 3D Computer Vision, and embodied intelligence, focusing on learning-based systems that understand, generate, and interact with complex 3D environments.
 
-My current research at TCS Research (formerly known as TRDDC), focuses on building immersive 3D worlds for AR/VR environments, where users experience an artificial reality that evolves based on their thoughts. My work spans computer vision, computer graphics, robotics, image processing, and machine learning.
+Previously, he worked as an AI Researcher at <a href='https://www.tcs.com/what-we-do/research'>TCS Research</a> (formerly TRDDC), where his work centered on Generative AI and 3D vision for immersive AR/VR systems. At TCS Research, he explored methods for building interactive and adaptive 3D worlds driven by user intent and perception. His work spanned computer vision, computer graphics, image processing, machine learning, and robotics-inspired perception, with a strong emphasis on translating research into industry-scale applications.
 
-My work has been recognized in several peer-reviewed journals and conferences, including IEEE IJCNN and Multimedia Tools and Applications (Springer).
+He completed his Bachelor’s degree from <a href='https://www.iiests.ac.in/'>IIEST Shibpur</a>.
+
+His research has been published in peer-reviewed journals and leading international conferences, including WACV, ISMAR, IEEE IJCNN, and Springer journals such as Multimedia Tools and Applications.
+
+Research Vision.
+His long-term research vision is to develop intelligent systems capable of reasoning about geometry, motion, and interaction in 3D spaces, bridging fundamental advances in perception and generative modeling with scalable, real-world applications in immersive systems and intelligent machines.

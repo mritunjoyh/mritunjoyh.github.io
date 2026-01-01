@@ -28,7 +28,7 @@
       "position": "Researcher",
       "url": "https://www.tcs.com/what-we-do/research",
       "startDate": "2023-07-03",
-      "endDate": "Present",
+      "endDate": "2025-12-28",
       "summary": "I am working as a researcher in the Visual Computing and Embodied Intelligence Lab, where my work primarily focuses on creating synthetic world environments using generative models that visualize imagined scenes and objects that do not exist.",
       "highlights": ["Computer Vision, Computer Graphics, Image Processing, Deep Learning"]
     }
@@ -45,6 +45,17 @@
     }
   ],
   "education": [
+    {
+      "institution": "Indian Institute Science",
+      "location": "Bengalore",
+      "url": "https://iisc.ac.in/",
+      "area": "Robotics and Autonomous Systems",
+      "studyType": "Doctor of Philosophy",
+      "startDate": "2025-12-29",
+      "endDate": "Present",
+      "score": "N/A",
+      "courses": ["Robotics, Computer Vision, Machine Learning"]
+    },
     {
       "institution": "Indian Institute of Engineering Science and Technology Shibpur",
       "location": "Howrah",
@@ -80,6 +91,18 @@
     }
   ],
   "publications": [
+    {
+      "name": "FAV3R: Fast and Accurate 3D VR Sketch to 3D Shape Retrieval",
+      "publisher": "2025 IEEE International Symposium on Mixed and Augmented Reality",
+      "releaseDate": "2025",
+      "url": "https://doi.org/10.1109/ISMAR-Adjunct68609.2025.00140"
+    },
+    {
+      "name": "InGenCo: Integrated In-Place 3D Scenario Generation and Collaboration",
+      "publisher": "2025 IEEE International Symposium on Mixed and Augmented Reality",
+      "releaseDate": "2025",
+      "url": "https://doi.org/10.1109/ISMAR-Adjunct68609.2025.00187"
+    },    
     {
       "name": "A transmission model based deep neural network for image dehazing",
       "publisher": "Multimedia Tools and Applications",
