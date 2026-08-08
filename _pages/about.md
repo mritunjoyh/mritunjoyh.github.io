@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Bring Imagination into Reality</a>
+subtitle: <a href='#'>Roboticist </a>
 
 profile:
   align: left
@@ -23,13 +23,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 
 ---
-Mritunjoy Halder is a PhD researcher in the Department of Robotics and Automation at the <a href='https://www.iisc.ac.in/'>Indian Institute of Science (IISc)</a>, Bangalore. His research lies at the intersection of Generative AI, 3D Computer Vision, and embodied intelligence, focusing on learning-based systems that understand, generate, and interact with complex 3D environments.
+Mritunjoy Halder is a PhD researcher in Robotics and Automation at <a href='https://www.iisc.ac.in/'>IISc Bangalore</a>, working at the intersection of Generative AI, 3D Computer Vision, and embodied intelligence.
 
-Previously, he worked as an AI Researcher at <a href='https://www.tcs.com/what-we-do/research'>TCS Research</a> (formerly TRDDC), where his work centered on Generative AI and 3D vision for immersive AR/VR systems. At TCS Research, he explored methods for building interactive and adaptive 3D worlds driven by user intent and perception. His work spanned computer vision, computer graphics, image processing, machine learning, and robotics-inspired perception, with a strong emphasis on translating research into industry-scale applications.
+Previously, he was an AI Researcher at <a href='https://www.tcs.com/what-we-do/research'>TCS Research</a>, working on Generative AI and 3D vision for immersive AR/VR systems. He holds a Bachelor's degree from <a href='https://www.iiests.ac.in/'>IIEST Shibpur</a>.
 
-He completed his Bachelor’s degree from <a href='https://www.iiests.ac.in/'>IIEST Shibpur</a>.
-
-His research has been published in peer-reviewed journals and leading international conferences, including WACV, ISMAR, IEEE IJCNN, and Springer journals such as Multimedia Tools and Applications.
-
-Research Vision.
-His long-term research vision is to develop intelligent systems capable of reasoning about geometry, motion, and interaction in 3D spaces, bridging fundamental advances in perception and generative modeling with scalable, real-world applications in immersive systems and intelligent machines.
+His work has been published at WACV, ISMAR, IEEE IJCNN, and in Springer journals. He's increasingly drawn to **space robotics** — SLAM, STEAP, and STEAM — and is interested in blending these estimation and planning frameworks with generative 3D vision for autonomous systems in unstructured, GPS-denied environments.
